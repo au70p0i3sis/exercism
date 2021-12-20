@@ -1,6 +1,6 @@
 # Leap
 
-Welcome to Leap on Exercism's Bash Track.
+**Instructions copied from exercism**
 
 ## Instructions
 
