@@ -1,6 +1,6 @@
 # Atbash Cipher
 
-Welcome to Atbash Cipher on Exercism's Bash Track.
+**Instructions copied from exercism**
 
 ## Instructions
 
