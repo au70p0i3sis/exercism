@@ -1,6 +1,7 @@
 # Armstrong Numbers
 
-Welcome to Armstrong Numbers on Exercism's Bash Track.
+**Instructions copied from exercism**
+
 
 ## Instructions
 
