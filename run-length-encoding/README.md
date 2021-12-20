@@ -1,6 +1,6 @@
 # Run Length Encoding
 
-Welcome to Run Length Encoding on Exercism's Bash Track.
+**Instructions copied from exercism**
 
 ## Instructions
 
