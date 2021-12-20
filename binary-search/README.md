@@ -1,6 +1,7 @@
 # Binary Search
 
-Welcome to Binary Search on Exercism's Bash Track.
+**Instructions copied from exercism**
+
 
 ## Instructions
 
